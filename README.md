@@ -2,7 +2,7 @@
 
 # open-sans
 
-[![npm version](https://badge.fury.io/js/%40sebastienrousseau%2Fopen-sans.svg)](https://badge.fury.io/js/c)
+[![npm version](https://badge.fury.io/js/%40sebastienrousseau%2Fopen-sans.svg)](https://github.com/sebastienrousseau/open-sans)
 
 Open Sans is a humanist sans serif typeface designed by Steve Matteson.
 
